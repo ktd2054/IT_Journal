@@ -3,4 +3,4 @@ I am an IT graduate preparing for a Service Desk or IT Support Role. This Journa
 
 Entries:
 
-- day 01: Day 01
+- Day 01: 
