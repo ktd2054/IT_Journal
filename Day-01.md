@@ -1,13 +1,13 @@
 # Day 1: Getting Started
-**Completed**
+##**Completed**
 - Setup GitHub repo and LinkedIn profile
   
-**Topics covered**
+##**Topics covered**
 - Differentiate between Tier 1 vs Tier 2 support
 - End-user support workflow; ticket lifestyle, prioritization and escalation path
   
-**Hands-on lab**
+##**Hands-on lab**
 - a flowchart on how a password-reset ticket goes from Tier-1 --> Tier 2 --> Vendor.
 
-Journal
+##**Journal**
   
