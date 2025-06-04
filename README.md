@@ -4,7 +4,7 @@ I am an IT graduate preparing for a Service Desk or IT Support Role. This Journa
 **Summary**
 - 
 
-Entries:
+**Entries**
 
 - [Day-1: Getting Started](Day-01.md)
 
