@@ -9,6 +9,7 @@
   
 ## **Hands-on lab**
 - User reports issue → Tier 1 checks connectivity and repairs OST → if still broken, Tier 2 rebuilds profile and checks Exchange
+  
 ![image](https://github.com/user-attachments/assets/0787e094-ed87-47a5-bc64-fe885341e0d4)
 
 
