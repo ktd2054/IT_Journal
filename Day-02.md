@@ -6,4 +6,4 @@
 - Creating a Zendesk account by siging up for free trial.
 - Setting up a company with 11-50 employees.
   
-![image | width= 100](https://github.com/user-attachments/assets/b406b86a-32af-4a77-aed7-c5f988afae3b)
+![image | width =250 x 250](https://github.com/user-attachments/assets/b406b86a-32af-4a77-aed7-c5f988afae3b)
