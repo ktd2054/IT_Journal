@@ -10,7 +10,7 @@
 ## **Hands-on lab**
 - User reports issue → Tier 1 checks connectivity and repairs OST → if still broken, Tier 2 rebuilds profile and checks Exchange
   
-![image](/images/day1.md)
+![Flowchart](/images/day1.md)
 
 
 ## **Journal**
