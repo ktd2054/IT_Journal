@@ -1,4 +1,4 @@
-# Day 01 Getting Started
+# Day 1: Getting Started
 **Completed**
 - Setup GitHub repo and LinkedIn profile
   
