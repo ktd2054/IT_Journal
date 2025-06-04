@@ -20,4 +20,4 @@
 - Tier 2 esclates deeper troubleshoot dealing with Active Directory (AD), and administrtion level errors such as patch conflicts and software installation.
 
 ### Next Steps
-- Setup CMS trial version and log sample ticket
+- Setup CMS trial version and log sample ticket.
