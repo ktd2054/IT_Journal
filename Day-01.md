@@ -1,4 +1,9 @@
 # Day 1: Getting Started
+
+I’m excited to kick off my 35-day Service Desk Analyst training today!  
+🚀 Building a public journal on GitHub: [link]  
+🛠️ Day 1: GitHub & LinkedIn setup and Service Desk fundamentals
+
 ## **Completed**
 - Setup GitHub repo and LinkedIn profile
   
