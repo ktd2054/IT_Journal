@@ -4,9 +4,7 @@
 
 ###What I did today?
 - Creating a Zendesk account by siging up for free trial.
-- Setting up a company with 11-50 employees.
-  
-![image](https://github.com/user-attachments/assets/b406b86a-32af-4a77-aed7-c5f988afae3b)
+- Setting up a company with 11-50 employees. Click Here ! .... ![image](images/day2/img1.md)
 
 - sending a first test email.
 
