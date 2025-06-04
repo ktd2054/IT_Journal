@@ -6,7 +6,7 @@
 - Creating a Zendesk account by siging up for free trial.
 - Setting up a company with 11-50 employees. Click Here ! .... ![image](images/day2/img1.md)
 
-- sending a first test email.
+- sending a first test email. Click Here ! ... [](images/day2/img1.md)
 
-![image](https://github.com/user-attachments/assets/52c645b0-a988-4521-b151-76fa722ad051)
+
 
