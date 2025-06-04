@@ -8,5 +8,5 @@ This is
 ## **Entries**
 
 - [Day-1: Getting Started](Day-01.md)
-
-- 
+- [Day-2: Setting up a Ticketing Solution Account](Day-02.md)
+- [Day-3: ](Day-03.md)
