@@ -3,6 +3,6 @@ I am an IT graduate preparing for a Service Desk or IT Support Role. This Journa
 
 Entries:
 
-- [Day 01: Getting Started](Day-01.md)
+- [Day-1: Getting Started](Day-01.md)
 
 - 
