@@ -16,6 +16,9 @@
 - Local profiles live in C:\Users\; adding/removing users is quick via Settings.
 - Sharing a folder requires both NTFS and share permissions; mapping a share verifies access.
 
+### Next Steps
+- Use of event viewer and task manager to trouble shoot a simulated Windows service error.
+
 
 
 
