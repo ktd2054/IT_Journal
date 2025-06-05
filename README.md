@@ -2,8 +2,8 @@
 
 ## **Summary:**
  Date: 04/06/25 </br>
-<align>
-I am an IT graduate preparing for a Service Desk or IT Support Role. This Journal tracks daily lab tasks, troubleshooting steps, and key takeaways. I’m excited to kick off my 35-day Service Desk Analyst training today! The journal’s purpose is to document daily lab exercises, troubleshooting steps, and key takeaways while preparing for a Service Desk or IT Support role. So far, it contains entries for:<align>
+<Center>
+I am an IT graduate preparing for a Service Desk or IT Support Role. This Journal tracks daily lab tasks, troubleshooting steps, and key takeaways. I’m excited to kick off my 35-day Service Desk Analyst training today! The journal’s purpose is to document daily lab exercises, troubleshooting steps, and key takeaways while preparing for a Service Desk or IT Support role. So far, it contains entries for: </Center>
 
 ## **Entries**
 
