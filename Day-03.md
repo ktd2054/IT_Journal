@@ -12,6 +12,10 @@
 - Created a folder SharedTest and shared it with “Everyone,” mapped it as drive Z:, then deleted the mapping. Click Here ! ... ![images](images/day3/img2.md)
 - Checked for Windows updates and installed any pending patches. 
 
+### What I learned?
+- Local profiles live in C:\Users\; adding/removing users is quick via Settings.
+- Sharing a folder requires both NTFS and share permissions; mapping a share verifies access.
+
 
 
 
