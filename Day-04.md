@@ -5,5 +5,5 @@
 ### What I did today?
 
 #### Hands-On
-- Setting up Microsoft 365 buisness premium account free-trail.
+- Setting up Microsoft 365 buisness premium account free-trial.
 - 
