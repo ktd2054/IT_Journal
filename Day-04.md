@@ -1,8 +1,9 @@
-# Troubleshooting and Event Viewer Basic
+# Microsoft 365 Admin Portal and User Management
 
 ## Journal
 
 ### What I did today?
-#### Hands-on 
-- Using Event Viewer to investigate any error seen inside Windows Logs -> Application tab.
-- Found an error related to auth header. Click Here... ![images](images/day4/img1.md)
+
+#### Hands-On
+- Setting up Microsoft 365 buisness premium account free-trail.
+- 
