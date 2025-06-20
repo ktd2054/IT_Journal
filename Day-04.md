@@ -10,21 +10,21 @@
 
 #### Hands-On
 
--Launched and explored the Azure Portal
+- Launched and explored the Azure Portal
 
--Created a Resource Group in the East US region
+- Created a Resource Group in the East US region
 
--Deployed a Virtual Machine (Windows 11)
+- Deployed a Virtual Machine (Windows 11)
 
--Set up Network Security Group (NSG) rules to allow RDP
+- Set up Network Security Group (NSG) rules to allow RDP
 
--Explored Azure Storage Account creation
+- Explored Azure Storage Account creation
 
--Tested uploading blobs using Storage Explorer
+- Tested uploading blobs using Storage Explorer
 
--Used Azure Pricing Calculator to estimate VM costs
+- Used Azure Pricing Calculator to estimate VM costs
 
--Practiced deleting resources to avoid extra charges
+- Practiced deleting resources to avoid extra charges
 
 
 
