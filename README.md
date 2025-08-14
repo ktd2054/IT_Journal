@@ -12,3 +12,4 @@ I am an IT graduate preparing for a Service Desk or IT Support Role. This Journa
 - [Day-2: Setting up a Ticketing Solution Account](Day-02.md)
 - [Day-3: Communication and Exploration](Day-03.md)
 - [Day-4: Preparation for Microsoft Azure Certificate](Day-04.md)
+- [Day-5: Building a IT Lab](Day-05.md)
