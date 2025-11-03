@@ -1,4 +1,3 @@
-<img width="1545" height="743" alt="image" src="https://github.com/user-attachments/assets/353b5f1c-87b7-4840-b852-e4fedc51b4ab" />
 # Project: Building an IT Lab using VirtualBox
 
 ### Summary:
@@ -22,3 +21,5 @@ Designed and configured a virtual IT lab using Oracle VirtualBox to simulate rea
 
 ### Tools & Technologies:
 VirtualBox, Windows Server, Active Directory, PowerShell, Ubuntu, Remote Desktop, Networking tools.
+
+<img width="1545" height="743" alt="image" src="https://github.com/user-attachments/assets/353b5f1c-87b7-4840-b852-e4fedc51b4ab" />
