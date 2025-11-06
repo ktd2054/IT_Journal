@@ -6,6 +6,22 @@ It is used for managing computers and other devices on a network, providing a ce
 
 Active Directory Domain Services (AD DS) is the core component of Active Directory, providing a structured, hierarchical data storage for objects such as users, computers, and printers. It allows for secure, organized management of these objects and supports various network services like authentication and authorization. AD DS also includes features such as a global catalog, which provides a searchable, read-only copy of all objects in the directory, and replication services that ensure data consistency across multiple domain controllers. 
 
+Common IT Support day-to-day with AD: create/delete users, reset passwords, join computers to domain, map drives with GPOs, apply group policies, delegate admin tasks, troubleshoot replication/DNS, restore deleted objects.
 
-Refrences:
+## LABS
+
+#### Setting up Domain Controller
+
+<img width="1012" height="718" alt="image" src="https://github.com/user-attachments/assets/57b3267e-7d06-4a6e-88dc-f4ebace2e81c" />
+
+Step 1: Open Server Manager
+Step 2: Click On Manage -> Add roles and features
+Step 3: Click Next, till reaching Server Roles
+Step 4: Ticking Active Directory Domain Services
+Step 5: Click Add Features
+Step 6: Click Install
+
+
+References:
 <link> https://learn.microsoft.com/en-us/windows/win32/wmisdk/accessing-active-directory </link>
+<link> https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview </link>
