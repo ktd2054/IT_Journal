@@ -54,6 +54,23 @@ Let's create a shared mailbox used by teams to answer common emails/queries.
 <img width="453" height="412" alt="image" src="https://github.com/user-attachments/assets/3d38c5c4-843f-4d89-8575-61c79f7fcb94" />
 
 
+#### Task 5: Creating Distribution Group
+
+- Go to Teams & Groups -> Active Teams & Groups -> Add new
+
+<img width="1297" height="697" alt="image" src="https://github.com/user-attachments/assets/2e41c857-7b8c-4f15-ab14-3d7ae9300ffe" />
+
+- Select Owners
+
+<img width="691" height="396" alt="image" src="https://github.com/user-attachments/assets/85afd8e2-ac04-4194-b7a2-24477b35098e" />
+
+- Asign Members and setup team email address
+
+<img width="1388" height="652" alt="image" src="https://github.com/user-attachments/assets/a073b9ae-0826-4a48-b1c2-e7fc6cdd8c35" />
+
+
+
+
 
 
 
