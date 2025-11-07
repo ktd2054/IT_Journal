@@ -14,4 +14,4 @@ I am an IT graduate preparing for a Service Desk or IT Support Role. This Journa
 - [Day-4: Preparation for Microsoft Azure Certificate](Day-04.md)
 - [Day-5: Building an IT Lab](Day-05.md)
 - [Day-6: Active Directory Basics](Day-06.md)
-- [Day-&: Microsoft 365 Business](Day-07.md)
+- [Day-7: Microsoft 365 Business](Day-07.md)
