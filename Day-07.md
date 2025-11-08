@@ -12,7 +12,7 @@ Getting Started with 1-month free trail.
 <img width="1895" height="873" alt="image" src="https://github.com/user-attachments/assets/249a9dbd-9fe1-4759-bdff-e3dc0d54a275" />
 
 
-#### Task-2: Resettin Password
+#### Task-2: Resetting Password
 
 - Go to Users -> Active Users
 - Select the User
