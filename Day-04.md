@@ -4,9 +4,11 @@
 
 ### What I did today?
 
+- Completed Course from Microsoft Learn
 - Completed hands-on labs for Azure Portal
 - Explored core services: Compute, Networking, Storage
 - Practiced resource creation and cost estimation in Azure Pricing Calculator
+- Booked an examination
 
 #### Hands-On
 
