@@ -3,7 +3,7 @@
 ### **Summary:**
 
 <center>
-I am an IT graduate preparing for a Service Desk or IT Support Role. This Journal tracks daily lab tasks, troubleshooting steps, and key takeaways. I’m excited to kick off IT Support Analyst training today! The journal’s purpose is to document daily lab exercises, troubleshooting steps, and key takeaways while preparing for a IT Support role. So far, it contains entries for:
+I am an IT graduate preparing for Information Technology Analyst Role. This Journal tracks daily lab tasks, troubleshooting steps, and key takeaways. I’m excited to kick off IT Support Analyst training today! The journal’s purpose is to document daily lab exercises, troubleshooting steps, and key takeaways while preparing for a IT Support role. So far, it contains entries for:
 </center>
 
 ### **Entries**
