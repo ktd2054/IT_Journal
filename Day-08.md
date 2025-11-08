@@ -1,6 +1,6 @@
 # Exploring M365
 
-### Objective:
+### Objectives:
 - Learn to manage users and licenses in Microsoft 365.
 - Configure security settings such as MFA and password resets.
 - Create and manage shared mailboxes and distribution groups.
