@@ -1,6 +1,8 @@
 # Hands-On: Microsoft 365 Business 
 
-Getting Started with 1-month free trail.
+Getting Started with 1-month free trial.
+
+Purpose: The purpose of exploring the Microsoft 365 Admin Center is to learn how a real IT Support / System Administrator manages users, security, devices, and company data inside a Microsoft cloud environment. When companies move to Microsoft 365, they rely on the Admin Center to run daily operations.
 
 #### Task-1 Creating domain and registering users
 
