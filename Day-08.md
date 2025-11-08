@@ -29,4 +29,12 @@
 
 <img width="590" height="801" alt="image" src="https://github.com/user-attachments/assets/5b51ad17-0eb8-4865-a407-8062e1217350" />
 
+#### Task 4 - Setting up password expiration policy
+
+- Search password expiration policy
+- Uncheck never expire option
+- Set days before password expire and save
+  
+<img width="559" height="314" alt="image" src="https://github.com/user-attachments/assets/c0925e97-fc67-48f2-8fc2-1b850126fbd9" />
+
 
