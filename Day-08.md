@@ -1,5 +1,12 @@
 # Exploring M365
 
+### Objective:
+- Learn to manage users and licenses in Microsoft 365.
+- Configure security settings such as MFA and password resets.
+- Create and manage shared mailboxes and distribution groups.
+- Support communication and collaboration using Teams and SharePoint.
+- Document real IT support tasks for job-ready experience.
+
 #### Task 1 - Assigning License to Unlicensed Employee
 
 <img width="1145" height="478" alt="image" src="https://github.com/user-attachments/assets/65e08c47-ed19-4f48-a0e3-53ee8219b3a0" />
