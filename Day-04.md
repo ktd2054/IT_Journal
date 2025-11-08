@@ -27,4 +27,7 @@
 - Practiced deleting resources to avoid extra charges
 
 
+#### Results
 
+- Failed first attempt with the score of 634
+- Better luck next time.
