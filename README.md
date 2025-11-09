@@ -16,3 +16,4 @@ I am an IT graduate preparing for Information Technology Analyst Role. This Jour
 - [Day-6: Active Directory Basics](Day-06.md)
 - [Day-7: Microsoft 365 Business](Day-07.md)
 - [Day-8: Exploring M365](Day-08.md)
+- [Day-9: Networking](Day-09.md)
