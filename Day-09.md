@@ -28,6 +28,19 @@ a) bulding a structure
 
 b) configurations
 
+Router configuration
+
+- click the router
+- go to command line tab
+- write commands to configure IP address and subnet mask sequentially
+  enable
+  configure terminal
+  interface GigabitEthernet0/0
+  ip address 192.168.1.1 255.255.255.0
+  no shutdown
+  exit
+
 
 <img width="401" height="496" alt="image" src="https://github.com/user-attachments/assets/847695a7-11ea-4a95-a0b1-349316c70fca" />
+
 This screenshot shows a fully converged network. The green triangles on all the connection points mean the links are active and ready to pass data. The switch has finished its startup process (STP), and the router's interface is up. The router's DHCP service is configured correctly, and the PCs successfully got their IP addresses.
