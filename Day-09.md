@@ -45,6 +45,18 @@ Router configuration
   
   exit
 
+DHCP configuration
+
+  ip dhcp pool MY_OFFICE_NET
+
+  network 192.168.1.0 255.255.255.0
+
+  default-router 192.168.1.1
+
+  dns-server 8.8.8.8
+
+  exit
+
 
 <img width="401" height="496" alt="image" src="https://github.com/user-attachments/assets/847695a7-11ea-4a95-a0b1-349316c70fca" />
 
