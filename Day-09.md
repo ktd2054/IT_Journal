@@ -34,10 +34,15 @@ Router configuration
 - go to command line tab
 - write commands to configure IP address and subnet mask sequentially
   enable
+  
   configure terminal
+  
   interface GigabitEthernet0/0
+  
   ip address 192.168.1.1 255.255.255.0
+  
   no shutdown
+  
   exit
 
 
