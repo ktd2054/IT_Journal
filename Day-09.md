@@ -43,6 +43,7 @@ b) configurations
 - go to command line tab
 - write commands to configure IP address and subnet mask sequentially
 
+(Let's give an interface an IP and enabling it so the router can communicate on the network.)
 Commands:
 
   enable
@@ -57,7 +58,9 @@ Commands:
   
   exit
 
-##### ii) DHCP configuration
+  ##### ii) DHCP configuration
+
+The comand below allows devices to connect and get IP settings automatically.
 
 Commands:
 
