@@ -15,10 +15,15 @@ Common IT Support day-to-day with AD: create/delete users, reset passwords, join
 <img width="1012" height="718" alt="image" src="https://github.com/user-attachments/assets/57b3267e-7d06-4a6e-88dc-f4ebace2e81c" />
 
 Step 1: Open Server Manager
+
 Step 2: Click On Manage -> Add roles and features
+
 Step 3: Click Next, till reaching Server Roles
+
 Step 4: Ticking Active Directory Domain Services
+
 Step 5: Click Add Features
+
 Step 6: Click Install
 
 
