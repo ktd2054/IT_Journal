@@ -26,6 +26,15 @@ Tools: Router(2911), Switch(2960), PC0, PC1,
 
 a) bulding a structure
 
+To build a proper structure drag the given tools above from left bottom corner as seen below and connect those devices.
+
+<img width="828" height="167" alt="image" src="https://github.com/user-attachments/assets/6d6602e5-f5d2-46b2-840c-2131e4bfe54c" />
+
+As a result the structure is like this,
+
+<img width="415" height="423" alt="image" src="https://github.com/user-attachments/assets/666fa879-7e5d-4483-b8ba-31f27acd59d8" />
+
+
 b) configurations
 
 ##### Router configuration
