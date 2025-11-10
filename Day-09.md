@@ -37,7 +37,7 @@ As a result the structure is like this,
 
 b) configurations
 
-##### Router configuration
+##### i) Router configuration
 
 - click the router
 - go to command line tab
@@ -57,7 +57,7 @@ Commands:
   
   exit
 
-##### DHCP configuration
+##### ii) DHCP configuration
 
 Commands:
 
