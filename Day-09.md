@@ -28,7 +28,7 @@ a) bulding a structure
 
 b) configurations
 
-Router configuration
+##### Router configuration
 
 - click the router
 - go to command line tab
@@ -48,7 +48,7 @@ Commands:
   
   exit
 
-DHCP configuration
+##### DHCP configuration
 
 Commands:
 
