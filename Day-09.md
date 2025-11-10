@@ -33,6 +33,9 @@ Router configuration
 - click the router
 - go to command line tab
 - write commands to configure IP address and subnet mask sequentially
+
+Commands:
+
   enable
   
   configure terminal
@@ -46,6 +49,8 @@ Router configuration
   exit
 
 DHCP configuration
+
+Commands:
 
   ip dhcp pool MY_OFFICE_NET
 
