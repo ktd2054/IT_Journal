@@ -41,7 +41,7 @@ h) set domain name and password
 
 i) click next and install
 
-<img width="1019" height="767" alt="image" src="https://github.com/user-attachments/assets/f107fc6b-4ad6-4039-9f5a-35a313fdd8d8" />
+<img width="719" height="467" alt="image" src="https://github.com/user-attachments/assets/f107fc6b-4ad6-4039-9f5a-35a313fdd8d8" />
 
 - Configurating DHCP
 
