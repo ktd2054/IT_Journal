@@ -28,8 +28,10 @@ i) click next and install
 - Configurating DHCP
 
 Before configuring the DHCP, we have to change network in virtualbox settings. Go to VirtualBox and click the os name and go to settings. 
-Set Network Adapter1 to NAT and Adapter2 to Host-only Network. After setting up the network, run ipconfig command in command prompt inside
-VBox Windows Server.
+Set Network Adapter1 to NAT and Adapter2 to Host-only Network. After setting up the network, run ipconfig command in command prompt inside VBox Windows Server. Check if the ip address for ethernet and ethernet2 has ip addresses.
+
+
+
 
 
 
