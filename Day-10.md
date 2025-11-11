@@ -43,7 +43,7 @@ i) click next and install
 
 <img width="719" height="467" alt="image" src="https://github.com/user-attachments/assets/f107fc6b-4ad6-4039-9f5a-35a313fdd8d8" />
 
-- Configurating DHCP
+## Configurating DHCP
 
 Before configuring the DHCP, we have to change network in virtualbox settings. Go to VirtualBox and click the os name and go to settings. 
 
@@ -83,12 +83,25 @@ go to Tools and we will see DHCP
 
 <img width="577" height="411" alt="image" src="https://github.com/user-attachments/assets/8c8e69af-cb21-493e-b345-45c5af21d80f" />
 
-Click on DHCP,
+- Click on DHCP,
 <img width="1182" height="363" alt="image" src="https://github.com/user-attachments/assets/9cb693d7-d679-4ed3-8bbd-e43965c7f597" />
 
+- Select IPv4 and right-click
+  
+- Open New Scope and setup wizard will open
+  
+- Giving the scope a name "OfficeLAN"
 
+- setting up starting IP and ending IP
 
+- click next and skip add exclusions and delay wizard
 
+- click next and select yes on configuation part
 
+- set router ip and next till finish
+
+Our DHCP server is live and now any client in Host-only network will receive IP 192.168.xx.x, gateway 192.168.xx.x and dns 192.168.xx.x
+
+Next steps is to add a Windows 10 Client.
 
 
