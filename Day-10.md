@@ -17,11 +17,11 @@ Objectives:
 
 # Installation of Windows Server 2019
 
-<img width="1018" height="764" alt="image" src="https://github.com/user-attachments/assets/f8107d0f-25da-42ee-9a7c-d2f1c6411fea" />
+<img width="818" height="564" alt="image" src="https://github.com/user-attachments/assets/f8107d0f-25da-42ee-9a7c-d2f1c6411fea" />
 
 ## Setup and install Domain Controller and DNS Server
 
-<img width="1013" height="707" alt="image" src="https://github.com/user-attachments/assets/57e8534c-3a64-4814-80bc-1318dd91d8a9" />
+<img width="713" height="507" alt="image" src="https://github.com/user-attachments/assets/57e8534c-3a64-4814-80bc-1318dd91d8a9" />
 
 a) Open Sever Manager 
 
