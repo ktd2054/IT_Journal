@@ -108,3 +108,4 @@ Next steps is to add a Windows 10 Client.
 
 <img width="223" height="87" alt="Screenshot 2025-11-12 094745" src="https://github.com/user-attachments/assets/c9342c94-e88e-4ab7-9731-a5612a6ea89d" />
 
+it's connected to our server.
