@@ -70,7 +70,21 @@ Go to cmd and check the IP address using ipconfig command. Voilà,
 
 <img width="280" height="129" alt="Screenshot 2025-11-12 080010" src="https://github.com/user-attachments/assets/8f414c58-d59c-4a89-9bc3-fb84b2062388" />
 
+#### Install and Configure DHCP
 
+- Server Mananager -> Manage -> Add Roles and Features
+- Click Next till Server Roles -> Tick DHCP Server
+- Click Add Features -> Next -> Install
+- After installing, click the flag on top
+- Go to complete the DHCP configuration
+- click next -> commit and close
+
+go to Tools and we will see DHCP
+
+<img width="577" height="411" alt="image" src="https://github.com/user-attachments/assets/8c8e69af-cb21-493e-b345-45c5af21d80f" />
+
+Click on DHCP,
+<img width="1182" height="363" alt="image" src="https://github.com/user-attachments/assets/9cb693d7-d679-4ed3-8bbd-e43965c7f597" />
 
 
 
