@@ -47,7 +47,28 @@ i) click next and install
 
 Before configuring the DHCP, we have to change network in virtualbox settings. Go to VirtualBox and click the os name and go to settings. 
 
-Set Network Adapter1 to NAT and Adapter2 to Host-only Network. After setting up the network, run ipconfig command in command prompt inside VBox Windows Server. Check if the ip address for ethernet and ethernet2 has ip addresses.
+Set Network Adapter1 to NAT and Adapter2 to Host-only Network. After setting up the network, run ipconfig command in command prompt inside VBox Windows Server. Check if the ip address for ethernet and ethernet2. When I checked my IP it was different from each other
+and also the subnet mask as Windows couldnot find any DHCP server or assigned network.
+
+<img width="300" height="134" alt="Screenshot 2025-11-12 074952" src="https://github.com/user-attachments/assets/4d04c816-5047-41b5-ad40-3f4e037b30b1" />
+
+We need to assign the static IP to Ethernet2. 
+
+- go to control panel -> network and internet -> network and sharing center -> change adapter settings
+
+- click ethernet2 -> properties -> select IPv4 -> properties
+  
+- select use the following IP addresses
+  
+- assign IP address and subnet mask
+  
+- use same IP to preferred DNS server
+  
+- click ok and close
+
+Go to cmd and check the IP address using ipconfig command. Voilà, 
+
+<img width="280" height="129" alt="Screenshot 2025-11-12 080010" src="https://github.com/user-attachments/assets/8f414c58-d59c-4a89-9bc3-fb84b2062388" />
 
 
 
