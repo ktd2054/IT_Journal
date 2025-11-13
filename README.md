@@ -3,7 +3,7 @@
 ### **Summary:**
 
 <center>
-I am an IT graduate preparing for Information Technology Analyst Role. This Journal tracks daily lab tasks, troubleshooting steps, and key takeaways. The journal’s purpose is to document daily lab exercises, troubleshooting steps, and key takeaways. So far, it contains entries for:
+This IT Journal reflects a structured progression in developing core technical and analytical skills relevant to a Technical Analyst position. Over ten days, I explored hands-on IT fundamentals, system administration, and troubleshooting workflows used in real-world environments. Key focus areas included setting up and managing Active Directory, DNS, and DHCP; building and testing an IT lab environment; configuring Microsoft 365 Business and Azure services; and understanding ticketing systems for incident management. Additionally, I strengthened my networking knowledge and communication skills essential for effective cross-team collaboration and technical documentation. This experience has built a solid foundation in systems analysis, IT operations, and problem-solving—directly aligning with the responsibilities of a Technical Analyst.
 </center>
 
 ### **Entries**
