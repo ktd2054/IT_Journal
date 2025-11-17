@@ -28,8 +28,8 @@ There are some sections in sidebar of the admin center, those are the features u
 
 | **Section**             | **Purpose**                          | **Who Uses It Daily?**              |
 |-------------------------|----------------------------------------|--------------------------------------|
-| **Identity**            | Users, groups, MFA, apps               | ⭐ Technical Analyst (YOU)           |
-| **Protection**          | Risky logins, identity threats         | ⭐ SOC / Security Team               |
+| **Identity**            | Users, groups, MFA, apps               | Technical Analyst         |
+| **Protection**          | Risky logins, identity threats         |  SOC / Security Team               |
 | **Identity Governance** | Access lifecycle automation            | IAM Team / Large Organisations       |
 | **Verified ID**         | Digital credentials                    | Rarely Used                          |
 | **Permissions Management** | Cloud permissions cleanup          | Cloud / IAM Security                 |
