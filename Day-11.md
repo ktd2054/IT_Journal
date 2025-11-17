@@ -24,6 +24,8 @@ Accessing MS Entra admin center,
 
 <img width="947" height="432" alt="s1" src="https://github.com/user-attachments/assets/41e57beb-92e9-42a1-9a15-7bb5c6f1ab73" />
 
+There are some sections in sidebar of the admin center, those are the features used in Entra.
+
 | **Section**             | **Purpose**                          | **Who Uses It Daily?**              |
 |-------------------------|----------------------------------------|--------------------------------------|
 | **Identity**            | Users, groups, MFA, apps               | ⭐ Technical Analyst (YOU)           |
