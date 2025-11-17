@@ -18,3 +18,4 @@ This IT Journal reflects a structured progression in developing core technical a
 - [Day-8: Exploring M365](Day-08.md)
 - [Day-9: Networking](Day-09.md)
 - [Day-10: Setting up DNS and DHCP Server](Day-10.md)
+- [Day-11: Getting Started with Microsoft Entra](Day-11.md)
