@@ -24,6 +24,13 @@ Accessing MS Entra admin center,
 
 <img width="947" height="432" alt="s1" src="https://github.com/user-attachments/assets/41e57beb-92e9-42a1-9a15-7bb5c6f1ab73" />
 
+| **Section**             | **Purpose**                          | **Who Uses It Daily?**              |
+|-------------------------|----------------------------------------|--------------------------------------|
+| **Identity**            | Users, groups, MFA, apps               | ⭐ Technical Analyst (YOU)           |
+| **Protection**          | Risky logins, identity threats         | ⭐ SOC / Security Team               |
+| **Identity Governance** | Access lifecycle automation            | IAM Team / Large Organisations       |
+| **Verified ID**         | Digital credentials                    | Rarely Used                          |
+| **Permissions Management** | Cloud permissions cleanup          | Cloud / IAM Security                 |
 
 
 
