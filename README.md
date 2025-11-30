@@ -20,4 +20,4 @@ This IT Journal reflects a structured progression in developing core technical a
 - [Day-10: Setting up DNS and DHCP Server](Day-10.md)
 - [Day-11: Getting Started with Microsoft Entra](Day-11.md)
 - [Day-12: Hands-on with Microsoft Entra as Technical Support](Day-11.md)
-- [Day-12: M365 Projects](Day-13-M365_Projects.md)
+- [Day-13: M365 Projects](Day-13-M365_Projects.md)
