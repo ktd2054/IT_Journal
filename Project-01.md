@@ -60,8 +60,21 @@ Next, Sessions -> click sign-in frequency -> select periodic authentication -> e
 
 Successfully created users MFA for users.
 
+### Lab 2
 
+#### Log Analysis
 
+- Audit Logs
+
+Go to Entra -> Roles & Admins -> Click Audit Logs
+
+analyse the logs 
+
+- Sign-in Logs
+
+Go to Enterprise apps  -> click on Sign-in Logs
+
+Monitor the logs.
 
 ## References
 
