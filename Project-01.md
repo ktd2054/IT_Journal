@@ -27,31 +27,45 @@ This project demonstrates a lifecycle of user identity and access management in 
 
 #### Step 1: Creating user accounts
 
-Admin center -> users -> Active users -> Add user
+Go to Admin center -> users -> Active users -> Add user
 
 Users Created Successfully and Assigned M365 Licenses
 
-<img width="1079" height="517" alt="image" src="https://github.com/user-attachments/assets/55454b17-d4d2-433f-ab7d-a658973c0e4d" />
+<img width="979" height="398" alt="image" src="https://github.com/user-attachments/assets/55454b17-d4d2-433f-ab7d-a658973c0e4d" />
 
-#### Step 2: Adding users to security/distribution groups
+#### Step 2: Adding users to security/distribution groups and Creating shared mailboxes
 
-Groups -> Active Groups -> Add Group
+Go to Groups -> Active Groups -> Add Group
 
 - Created groups for each department and assigned team members. 
 
-<img width="1123" height="663" alt="image" src="https://github.com/user-attachments/assets/1c3bd012-7efa-41e8-bd82-21b46284545e" />
+<img width="923" height="463" alt="image" src="https://github.com/user-attachments/assets/1c3bd012-7efa-41e8-bd82-21b46284545e" />
+
+- Created Shared Mailboxes
+  
+<img width="916" height="642" alt="image" src="https://github.com/user-attachments/assets/9f01d7d9-8337-4821-adc7-96c46090348c" />
+
+#### Step 3: Enabling and Reviewing Security Configuration
+
+Go to Active users -> Multi-factor authentication -> New Policy -> Select users or agents -> check select users and groups
+
+- selecting users by clicking the box and press the select button
+  Name: Users MFA
+
+Grant -> click on 0 controls selected -> grant access -> check require multifactor authentication
+
+Next, Sessions -> click sign-in frequency -> select periodic authentication -> enter 90 and select days from the select box
+
+<img width="676" height="615" alt="image" src="https://github.com/user-attachments/assets/ed558c5a-6bdc-438b-a54a-0b60c4aefa50" />
+
+Successfully created users MFA for users.
 
 
 
 
-
-
-
-
-
-
-
-
+## References
+ 
+https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-azure-mfa
 
 
 
