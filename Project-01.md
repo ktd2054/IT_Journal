@@ -64,8 +64,12 @@ Successfully created users MFA for users.
 
 
 ## References
- 
-https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-azure-mfa
+
+- https://learn.microsoft.com/en-us/microsoft-365/admin/?view=o365-worldwide
+  
+- https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/add-users?view=o365-worldwide
+  
+- https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-azure-mfa
 
 
 
