@@ -21,3 +21,29 @@ This IT Journal reflects a structured progression in developing core technical a
 - [Day-11: Getting Started with Microsoft Entra](Day-11.md)
 - [Day-12: Hands-on with Microsoft Entra as Technical Support](Day-11.md)
 - [Day-13: M365 Projects](Day-13-M365_Projects.md)
+
+### ROLES & RESPONSIBILITIES
+
+Service Desk & User Support
+
+Provide first-level support, logging and prioritising tickets across phone, email, and in person.
+Troubleshoot common Windows/M365, hardware, and network issues, escalating when required.
+End User Device Management
+
+Deploy, configure and maintain laptops, desktops, mobiles and tablets.
+Perform basic hardware fixes and maintain accurate asset records.
+Accounts, Access & Security
+
+Create and manage user accounts and access across AD/Entra ID and M365.
+Support password resets, MFA setup and general security practices.
+Systems & Administration Support
+
+Assist with routine system checks, software installs and licence management.
+Support meeting room technology and AV setups.
+Documentation & Continuous Improvement
+
+Maintain accurate ticketing records and update IT documentation.
+Identify recurring issues and contribute to process improvements.
+Other Responsibilities
+
+Assist with IT projects, office moves and general IT tasks as required.
