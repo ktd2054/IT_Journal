@@ -1,49 +1,118 @@
-## IT_Journal
+<div align="center">
 
-### **Summary:**
+# 💻 IT_Journal  
+### 🧑‍💼 Technical Analyst | Service Desk | IT Operations Portfolio
 
-<center>
-This IT Journal reflects a structured progression in developing core technical and analytical skills relevant to a Technical Analyst position. Over these days, I explored hands-on IT fundamentals, system administration, and troubleshooting workflows used in real-world environments. Key focus areas included setting up and managing Active Directory, DNS, and DHCP; building and testing an IT lab environment; configuring Microsoft 365 Business and Azure services; and understanding ticketing systems for incident management. Additionally, I strengthened my networking knowledge and communication skills essential for effective cross-team collaboration and technical documentation. This experience has built a solid foundation in systems analysis, IT operations, and problem-solving; directly aligning with the responsibilities of a Technical Analyst.
-</center>
+![IT Support](https://img.shields.io/badge/IT-Support-blue?style=for-the-badge)
+![Technical Analyst](https://img.shields.io/badge/Role-Technical%20Analyst-green?style=for-the-badge)
+![Hands-On](https://img.shields.io/badge/Hands--On-Labs-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 
-### **Entries**
+</div>
 
-- [Day-1: Getting Started](Day-01.md)
-- [Day-2: Setting up a Ticketing Solution Account](Day-02.md)
-- [Day-3: Communication and Exploration](Day-03.md)
-- [Day-4: Preparation for Microsoft Azure Certificate](Day-04.md)
-- [Day-5: Building an IT Lab](Day-05.md)
-- [Day-6: Active Directory Basics](Day-06.md)
-- [Day-7: Microsoft 365 Business](Day-07.md)
-- [Day-8: Exploring M365](Day-08.md)
-- [Day-9: Networking](Day-09.md)
-- [Day-10: Setting up DNS and DHCP Server](Day-10.md)
-- [Day-11: Getting Started with Microsoft Entra](Day-11.md)
-- [Day-12: Hands-on with Microsoft Entra as Technical Support](Day-11.md)
-- [Day-13: M365 Projects](Day-13-M365_Projects.md)
+---
 
-### ROLES & RESPONSIBILITIES
+## 📘 Summary
 
-Service Desk & User Support
+<div align="center">
 
-Provide first-level support, logging and prioritising tickets across phone, email, and in person.
-Troubleshoot common Windows/M365, hardware, and network issues, escalating when required.
-End User Device Management
+This **IT Journal** reflects a structured progression in developing **core technical and analytical skills** relevant to a **Technical Analyst / IT Support role**.
 
-Deploy, configure and maintain laptops, desktops, mobiles and tablets.
-Perform basic hardware fixes and maintain accurate asset records.
-Accounts, Access & Security
+Across these entries, I worked hands-on with **IT fundamentals, system administration, and real-world troubleshooting workflows**.  
+The journal documents practical experience with **Active Directory, DNS, DHCP, Microsoft 365, Azure, Entra ID**, and **ticketing systems** used in enterprise environments.
 
-Create and manage user accounts and access across AD/Entra ID and M365.
-Support password resets, MFA setup and general security practices.
-Systems & Administration Support
+In parallel, I strengthened **networking fundamentals, communication skills, and technical documentation practices**, which are essential for effective **cross-team collaboration**.
 
-Assist with routine system checks, software installs and licence management.
-Support meeting room technology and AV setups.
-Documentation & Continuous Improvement
+This experience has built a strong foundation in **systems analysis, IT operations, and problem-solving**, directly aligning with the responsibilities of a **Technical Analyst or Service Desk Engineer**.
 
-Maintain accurate ticketing records and update IT documentation.
-Identify recurring issues and contribute to process improvements.
-Other Responsibilities
+</div>
 
-Assist with IT projects, office moves and general IT tasks as required.
+---
+
+## 📅 Journal Entries
+
+| Day | Topic |
+|----|------|
+| Day 01 | 🚀 [Getting Started](Day-01.md) |
+| Day 02 | 🎫 [Setting up a Ticketing Solution Account](Day-02.md) |
+| Day 03 | 💬 [Communication and Exploration](Day-03.md) |
+| Day 04 | ☁️ [Preparation for Microsoft Azure Certificate](Day-04.md) |
+| Day 05 | 🧪 [Building an IT Lab](Day-05.md) |
+| Day 06 | 🗂️ [Active Directory Basics](Day-06.md) |
+| Day 07 | 📊 [Microsoft 365 Business](Day-07.md) |
+| Day 08 | 🔍 [Exploring Microsoft 365](Day-08.md) |
+| Day 09 | 🌐 [Networking Fundamentals](Day-09.md) |
+| Day 10 | 📡 [Setting up DNS and DHCP Server](Day-10.md) |
+| Day 11 | 🔐 [Getting Started with Microsoft Entra](Day-11.md) |
+| Day 12 | 🧑‍💻 [Hands-on with Entra as Technical Support](Day-12.md) |
+| Day 13 | 📁 [Microsoft 365 Projects](Day-13-M365_Projects.md) |
+
+---
+
+## 🛠️ Technologies & Platforms
+
+### 🖥️ Systems & Identity
+![Active Directory](https://img.shields.io/badge/Active%20Directory-blue?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Microsoft%20Entra-purple?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&style=for-the-badge)
+
+### ☁️ Cloud & Productivity
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&style=for-the-badge)
+![M365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&style=for-the-badge)
+
+### 🎫 IT Operations
+![Ticketing](https://img.shields.io/badge/Ticketing%20Systems-grey?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-green?style=for-the-badge)
+
+---
+
+## 👨‍💼 Roles & Responsibilities Covered
+
+### 🎧 Service Desk & User Support
+- Provided **first-level IT support**
+- Logged, prioritised, and tracked incidents via **ticketing systems**
+- Troubleshot **Windows, M365, hardware, and network issues**
+- Escalated issues when required
+
+### 💻 End-User Device Management
+- Deployed and configured **laptops, desktops, and mobile devices**
+- Performed basic **hardware troubleshooting**
+- Maintained accurate **asset records**
+
+### 🔐 Accounts, Access & Security
+- Created and managed **user accounts** in AD / Entra ID
+- Performed **password resets and MFA setup**
+- Supported basic **security best practices**
+
+### ⚙️ Systems & Administration Support
+- Assisted with **system checks and software installations**
+- Managed **licenses and subscriptions**
+- Supported **meeting room and AV technologies**
+
+### 📝 Documentation & Continuous Improvement
+- Maintained clear **ticket documentation**
+- Updated IT knowledge base articles
+- Identified **recurring issues** and process improvements
+
+### 🧩 Other Responsibilities
+- Assisted with **IT projects and lab builds**
+- Supported general IT tasks and operational needs
+
+---
+
+## 🎯 Career Alignment
+
+This IT Journal demonstrates readiness for roles such as:
+
+- 🧑‍💼 Technical Analyst  
+- 🎧 Service Desk Analyst  
+- 🖥️ IT Support Engineer  
+- ☁️ Junior Cloud / M365 Support  
+
+---
+
+<div align="center">
+
+⭐ **This repository represents practical, hands-on IT experience — not just theory.** ⭐  
+
+</div>
