@@ -46,7 +46,7 @@ This experience has built a strong foundation in **systems analysis, IT operatio
 | Day 11 | 🔐 [Getting Started with Microsoft Entra](Day-11.md) |
 | Day 12 | 🧑‍💻 [Hands-on with Entra as Technical Support](Day-12.md) |
 | Day 13 | 📁 [Microsoft 365 Projects](Day-13-M365_Projects.md) |
-| Day 14 | 📁 [Windows 11 Troubleshooting Basics](Day-14.md) |
+| Day 14 | 🪟 [Windows 11 Troubleshooting Basics](Day-14.md) |
 ---
 
 ## 🛠️ Technologies & Platforms
