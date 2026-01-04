@@ -37,8 +37,8 @@ This experience has built a strong foundation in **systems analysis, IT operatio
 | Day 02 | 🎫 [Setting up a Ticketing Solution Account](Day-02.md) |
 | Day 03 | 💬 [Communication and Exploration](Day-03.md) |
 | Day 04 | ☁️ [Preparation for Microsoft Azure Certificate](Day-04.md) |
-| Day 05 | 🧪 [Building an IT Lab](Day-05.md) |
-| Day 06 | 🗂️ [Active Directory Basics](Day-06.md) |
+| Day 05 | 🧪 [Active Directory Basics](Day-05.md) |
+| Day 06 | 🗂️ [Setting up AD Lab](Day-06.md)|
 | Day 07 | 📊 [Microsoft 365 Business](Day-07.md) |
 | Day 08 | 🔍 [Exploring Microsoft 365](Day-08.md) |
 | Day 09 | 🌐 [Networking Fundamentals](Day-09.md) |
@@ -47,7 +47,7 @@ This experience has built a strong foundation in **systems analysis, IT operatio
 | Day 12 | 🧑‍💻 [Hands-on with Entra as Technical Support](Day-12.md) |
 | Day 13 | 📁 [Microsoft 365 Projects](Day-13-M365_Projects.md) |
 | Day 14 | 🪟 [Windows 11 Troubleshooting Basics](Day-14.md) |
-| Day 15 | 🪟 [Setting up AD Lab](Day-15-Setting_up_AD.md) |
+| Day 15 | 🪟 [Building an IT Lab](Day-15.md) |
 ---
 
 ## 🛠️ Technologies & Platforms
