@@ -1,9 +1,9 @@
 
 # Windows 11 troubleshooting basics
 
-### Common fixes
+## Common fixes
 
-#### Booting into Safe Mode
+### Booting into Safe Mode
 
  - go to settings -> System -> Recovery -> Click Restart now in Advanced startup
     <img width="527" height="213" alt="image" src="https://github.com/user-attachments/assets/62f21168-b7b7-43e0-973f-9919a462b358" />
@@ -24,7 +24,7 @@
 - Reboot the button.
 
 
-#### Resetting Windows
+### Resetting Windows
 
 
 - go to settings -> system -> recovery -> reset this pc 
@@ -111,7 +111,7 @@ How do they work?
 - it starts diagnosting pc
 
 
-#### Checking startup for malware
+### Checking startup for malware
 
 - run -> tskmgr
   
@@ -136,4 +136,15 @@ How do they work?
 
 <img width="960" height="215" alt="image" src="https://github.com/user-attachments/assets/1f4f4a7f-b69f-4f27-846b-d1d6d98230ff" />
 
-#### Troubleshooting the Applications
+### Troubleshooting the Applications
+
+- Settings -> Apps -> Installed Apps -> Select the app that you want to fix
+- Terminate or Repair or Reset or Uninstall and re-install ; depends on your choice
+
+### Fixing an application compatiability problem 
+
+- start -> all apps -> select -> right click -> more -> open file location -> select .exe file -> right click -> show more options -> troubleshoot compatiability
+
+<img width="1013" height="603" alt="image" src="https://github.com/user-attachments/assets/61d1d388-75f5-4b8b-a0fa-6b82ff365019" />
+
+ 
