@@ -76,6 +76,20 @@ Go to Enterprise apps  -> click on Sign-in Logs
 
 Monitor the logs.
 
+### Lab 3 - User Offboarding Workflow
+
+- Scenario: Employee John left the company 
+
+#### Step 1- Blocking sign-in 
+
+<img width="1483" height="555" alt="image" src="https://github.com/user-attachments/assets/74022196-93aa-4f7b-b266-78c0e7662ecf" />
+
+- user has been blocked
+
+<img width="1388" height="402" alt="image" src="https://github.com/user-attachments/assets/f7004d95-f526-4e9e-86e4-8b2dba59352d" />
+
+#### Step 2- Remove licenses
+
 ## References
 
 - https://learn.microsoft.com/en-us/microsoft-365/admin/?view=o365-worldwide
