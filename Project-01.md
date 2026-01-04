@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project demonstrates a lifecycle of user identity and access management in microsoft 365 from an IT support prespective. It includes creating users, onboarding, configuring security, trobuleshooting login issues, managing shared resources and analysing the logs. 
+This project demonstrates a lifecycle of user identity and access management in microsoft 365 from an IT support prespective. It includes creating users, onboarding, configuring security, troubleshooting login issues, managing shared resources and analysing the logs. 
 
 ## Objectives
 
