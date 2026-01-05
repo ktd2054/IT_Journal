@@ -4,7 +4,7 @@
 
 - [Project-1: Click Here](Project-01.md)
 
-## Project 2: 
+## Project 2: Entra ID Identity Protection & Conditional Access
 
 - [Project-2: Click Here](Project-02.md)
 
