@@ -1,5 +1,9 @@
 # Intune Device Enrollment and Policy Management
 
+In this project, I set up a Microsoft Intune environment using a Microsoft 365 test tenant with departmental users and security groups. I enrolled a Windows 11 device into Intune and troubleshot a real-world issue where the device appeared in Entra ID but not in Intune, resolving it by enrolling the device through the Company Portal.
+I created security groups for users and devices to properly target Intune policies. A Windows compliance policy was configured to evaluate device security posture (such as password requirements) and mark devices as compliant or non-compliant. Additionally, I deployed a Windows configuration profile to enforce security settings, specifically ensuring Microsoft Defender antimalware services cannot be disabled. 
+This project demonstrates hands-on experience with device enrollment, group-based policy targeting, compliance monitoring, and security enforcement—skills aligned with an L1 SOC / junior Intune administrator role.
+
 ## Objectives
 
 - A Microsoft 365 tenant with test users
