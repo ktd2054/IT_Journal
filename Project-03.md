@@ -43,13 +43,13 @@ departments such as Sales, Finance, IT and HR.
 
 <img width="572" height="435" alt="image" src="https://github.com/user-attachments/assets/df2730ab-b406-437e-8037-939d407ea786" />
 
-- using one of the accounts to login and after login it shows in Entra 
+- using one of the accounts to login and after logging in successfully it only shows in Entra
 
 <img width="1541" height="412" alt="image" src="https://github.com/user-attachments/assets/836bb978-2fe1-4d3d-894f-3c25f1244270" />
 
-- But did not show any devices on Intune
+- And did not show any devices on Intune
 
-- I searched for this error and got the fix
+- I searched for this error and got the fix (https://learn.microsoft.com/en-us/intune/intune-service/user-help/enroll-windows-10-device)
 - downloaded company portal app using microsoft store
 - now setting up the app using same member account
 - connecting that account with work
@@ -63,4 +63,34 @@ departments such as Sales, Finance, IT and HR.
 
 ## Creating a Windows Compliance Policy
 
-- Go to devices -> 
+- Go to Devices -> Compliances -> Policies -> create policy -> platform windows 10 or later -> Windwos 10/11 compliance policy -> create
+- Fill the details
+<img width="861" height="532" alt="image" src="https://github.com/user-attachments/assets/e4b42729-e5bf-40ba-91e9-b022d815af5f" />
+- selecting passwords under system security adn configuring the security
+
+<img width="768" height="426" alt="image" src="https://github.com/user-attachments/assets/6292e130-c804-4353-875c-8b6e6ed04853" />
+
+- click create 
+<img width="763" height="757" alt="image" src="https://github.com/user-attachments/assets/31d0763a-6a4b-40cc-8f73-c5f7e9d5dff6" />
+
+### Why did we set compliance?
+
+==> Because it checks whether a device meets the security standards or not.
+
+## Windwos Configuration Profile
+
+- To ensure that a compliance policy always warns users to meet the compliance i.e. Enforces security settings for corporate Windows devices
+
+-  An example would be What if user turns of firewall:
+
+-  go to devices -> configuration -> create -> Platform: Windows 10 and later -> Profile type: Settings catalog -> Click Create
+
+<img width="823" height="406" alt="image" src="https://github.com/user-attachments/assets/6edfc0c4-3971-4add-81e6-e5f6c7c50c81" />
+
+- I will search Defender and select allow antimalware service to remain running always
+
+- What that does ? ==> protect against malware trying to disable protection
+
+- save
+
+
