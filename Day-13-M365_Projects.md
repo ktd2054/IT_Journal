@@ -8,7 +8,7 @@
 
 - [Project-2: Click Here](Project-02.md)
 
-## Project 3: 
+## Project 3: Intune Device Enrollment and Policy Management
 
 - [Project-3: Click Here](Project-03.md)
 
