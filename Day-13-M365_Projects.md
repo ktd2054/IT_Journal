@@ -4,14 +4,6 @@
 
 - [Project-1: Click Here](Project-01.md)
 
-## Project 2: Entra ID Identity Protection & Conditional Access
+## Project 2: Intune Device Enrollment and Policy Management
 
-- [Project-2: Click Here](Project-02.md)
-
-## Project 3: Intune Device Enrollment and Policy Management
-
-- [Project-3: Click Here](Project-03.md)
-
-## Project 4: Microsoft 365 User Lifecycle, Incident Handling & Troubleshooting
-
-- [Project-4: Click Here](Project-04.md)
+- [Project-2: Click Here](Project-03.md)
