@@ -1,6 +1,6 @@
 # Projects for IT support
 
-## Project 1: 
+## Project 1: Purchasing a Domain and Onboarding Microsoft Tenancy
 
 - [Project-1: Click Here](Project-001.md)
 
