@@ -11,4 +11,6 @@
 
 - click continue -> verify 
 
+- connect to godaddy.com
+
 - Our new domain will be added.
